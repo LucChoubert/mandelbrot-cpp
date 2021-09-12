@@ -7,3 +7,6 @@ run:
 
 clean:
 	rm -f Mandelbrot
+
+install:
+	./install.sh
